@@ -1,9 +1,4 @@
-
-
-
-
-
-
+// 메인슬라이드
 new Swiper('.main-slider .swiper', {
     direction: 'horizontal',
     loop: true,
